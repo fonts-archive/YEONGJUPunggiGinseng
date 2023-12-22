@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'YEONGJU Punggi Ginseng';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/YEONGJUPunggiGinseng/YEONGJUPunggiGinseng.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YEONGJUPunggiGinseng/YEONGJUPunggiGinseng.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YEONGJUPunggiGinseng/YEONGJUPunggiGinseng.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YEONGJUPunggiGinseng/YEONGJUPunggiGinseng.ttf') format('truetype');
+}
